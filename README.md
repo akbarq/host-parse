@@ -1,3 +1,3 @@
 # host_parse
 
-![alt tag](https://raw.githubusercontent.com/akbarq/host_parse/screenhost.jpg)
+![alt tag](https://github.com/akbarq/host_parse/blob/master/screenhost.jpg)
