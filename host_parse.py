@@ -1,5 +1,5 @@
 #Author : Akbar Qureshi
-#Extracts unique hosts from PCAP file
+#Extracts numbers of unique hosts by connection count.
 
 import dpkt
 import sys
