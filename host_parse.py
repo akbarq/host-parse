@@ -3,7 +3,6 @@
 
 import dpkt
 import sys
-from socket import inet_ntoa as to_ip
 import datetime
 
 if len(sys.argv) < 2:
