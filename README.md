@@ -9,4 +9,4 @@ Parses PCAP file and extracts number of unique hosts by connection count.
 * dpkt
 
 ###Sample use Case
-Can be used to analyze malware c2 callback attempts.
+Can be used to count the number of malware c2 connection attempts.
