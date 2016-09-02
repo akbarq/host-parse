@@ -1,5 +1,5 @@
 #Author : Akbar Qureshi
-#Extracts numbers of unique hosts by connection count.
+#Extracts number of unique hosts by connection count.
 
 import dpkt
 import sys
